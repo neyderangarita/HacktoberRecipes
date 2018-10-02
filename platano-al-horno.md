@@ -16,3 +16,6 @@ Pelar los platanos, hacer un corte longitudinal con una profundidad del 80%, cor
 ### Video Ejemplo
 [Video](https://youtu.be/Cxo97sM6Mz0)
 
+#### Fuentes
+* YouTube
+* Google
